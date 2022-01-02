@@ -1,0 +1,84 @@
+{
+    "menu":[
+      {
+        "jenis": "makanan",
+        "nama":"Udon katsu",
+        "deskripsi": "mie tebal dan kuah soyu ala jepang dengan toping katsu ayam diatasnya",
+        "harga": "60.000",
+        "estimasi": "15 menit",
+        "gambar": "katsu.jpg"
+      },
+      {
+        "jenis": "minuman",
+        "nama":"avocado float",
+        "deskripsi": "jus alpukat dengan eskrim diatasnya",
+        "harga": "25.000",
+        "estimasi": "10 menit",
+        "gambar": "buah.jpg"
+      },
+      {
+        "jenis": "dessert",
+        "nama":"choco lava",
+        "deskripsi": "kue dengan isi lelehan coklat panas didalamnya",
+        "harga": "30.000",
+        "estimasi": "20 menit",
+        "gambar": "chocolava.jpg"
+      },
+      {
+        "jenis": "makanan",
+        "nama":"cumi goreng tepung",
+        "deskripsi": "cumi goreng dibaluri tepung yang crispy",
+        "harga": "40.000",
+        "estimasi": "15 menit",
+        "gambar": "cumi-cumi.jpg"
+      },
+      {
+        "jenis": "minuman",
+        "nama":"air mineral",
+        "deskripsi": "air putih biasa",
+        "harga": "5.000",
+        "estimasi": "3 menit",
+        "gambar": "air.jpg"
+      },
+      {
+        "jenis": "dessert",
+        "nama":"pudding chocomint",
+        "deskripsi": "pudding dengan rasa coklat dan mint",
+        "harga": "15.000",
+        "estimasi": "10 menit",
+        "gambar": "pudding.jpg"
+      },
+      {
+        "jenis": "dessert",
+        "nama":"pai apel",
+        "deskripsi": "pai dengan isi apel olahan",
+        "harga": "15.000",
+        "estimasi": "10 menit",
+        "gambar": "apple-pie.jpg"
+      },
+      {
+        "jenis": "makanan",
+        "nama":"nasi goreng spesial",
+        "deskripsi": "nasi goreng dengan bumbu autentik dan juga ayam goreng dan juga telur mata sapi",
+        "harga": "45.000",
+        "estimasi": "15 menit",
+        "gambar": "nasi-goreng.jpg"
+      },
+      {
+        "jenis": "minuman",
+        "nama":"lemon tea",
+        "deskripsi": "teh lemon segar",
+        "harga": "20.000",
+        "estimasi": "10 menit",
+        "gambar": "lemontea.jpg"
+      },
+      {
+        "jenis": "dessert",
+        "nama":"soft cookies",
+        "deskripsi": "cookies lembut yang dipadu dengan choco chip",
+        "harga": "22.000",
+        "estimasi": "10 menit",
+        "gambar": "cookies.jpg"
+      }
+    ]
+  }
